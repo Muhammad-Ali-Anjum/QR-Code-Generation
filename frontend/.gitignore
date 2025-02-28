@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDE-specific files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS files
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output
+
+# Cache
+.cache/
+
+# ESLint cache
+.eslintcache
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
